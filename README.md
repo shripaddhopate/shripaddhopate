@@ -1,10 +1,6 @@
 ## Hi there 👋
 
-<!--
-**shripaddhopate/shripaddhopate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+I am Shripad Dhopate, Data scientist with 2 years of experience turning raw data into smart, AI-driven solutions. Skilled in Machine Learning, Deep Learning, NLP, and Generative AI, with a solid grip on SQL for data wrangling and analysis. Passionate about building predictive models, optimizing workflows, and pushing the boundaries of AI to solve real-world problems. Always exploring new ways to make data work smarter, faster, and more efficiently. 🚀
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
